@@ -17,11 +17,11 @@ sudo su
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/3222h/vpn.git
+git clone https://github.com/a35377/torvpn.git
 ```
 ### 3. Change Directory to the Cloned Repository
 ```bash
-cd vpn
+cd torvpn
 ```
 ### 4. Give permission
 ```bash
@@ -49,5 +49,5 @@ google-chrome --proxy-server="socks5://127.0.0.1:9050"
 ```
 ### 10. Remove repo
 ```bash
-rm -rf vpn
+rm -rf torvpn
 ```
